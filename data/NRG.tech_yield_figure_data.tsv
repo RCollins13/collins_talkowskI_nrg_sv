@@ -1,0 +1,13 @@
+technology	author	journal	year	pmid	population	ref	sample_size	sv_per_genome	genes_disrupted_per_genome	genic_sv_per_genome	omim_disrupted_per_genome	omim_sv_per_genome
+cma	Uddin	Genetics in Medicine	2015	25503493	Ontario PGP	hg19	873	81.5	23.7	16.5	4.2	3.9
+cma	Cooper	Nature Genetics	2011	21841781	Various	hg19	8329	51.9	5.6	3.0	1.0	0.8
+cma	Zarrei	Human Molecular Genetics	2023	37154571	Split for Science	hg38	4,688	13.6	10.8	4.8	1.9	1.4
+wes	Ruderfer	Nature Genetics	2016	27533299	ExAC	hg19	59898	2.1	2.6	2.1	1.0	0.8
+wes	Fu	Nature Genetics	2022	35982160	UK Biobank	hg19	197306	1.05	2.5	1.1	0.7	0.5
+wes	Maxwell	bioRxiv	2017	N/A	DiscovEHR		47349	10	14.0	10.0	NA	NA
+ogm	Levy-Sakin	Nature Communications	2019	30833565	1000 Genomes	hg38	154	1539	659.1	320.0	136.3	114.1
+srwgs	Byrska-Bishop	Cell	2022	36055201	1000 Genomes	hg38	3202	9767	162.0	110.0	24.5	22.6
+srwgs	Collins	Nature	2020	32461652	gnomAD v2	hg19	10847	7439	177.0	167.6	15.8	15.8
+srwgs	Abel	Nature	2020	32460305	CCDG	hg38	14623	4442	32.5	26.7	6.4	5.7
+lrwgs	Ebert	Science	2021	33632895	HGSVC	hg38	32	24653	308.2	267.1	62.9	58.3
+lrwgs	Beyter	Nature Genetics	2021	33972781	Icelanders	hg38	3622	22636	106.0	94.5	22.5	21.9
