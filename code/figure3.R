@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 ##################################################
-## Project/Purpose: NGR Fig 4
+## Project/Purpose: NGR Fig 3
 ## Date: 8/16/2023
 ## Author: Stephanie Hao
 ## sphao@bu.edu
